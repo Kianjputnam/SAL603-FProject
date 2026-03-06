@@ -1,5 +1,10 @@
 # SAL603 Final Project: NBA Draft Position vs Career Win Shares
 
+
+## Presentation Link
+
+https://www.youtube.com/watch?v=xWOObYiERxs
+
 ## Project Overview
 
 The NBA Draft is one of the most important mechanisms for team building in professional basketball. Teams invest significant resources into scouting and evaluating prospects with the goal of maximizing long-term player value.
